@@ -1,0 +1,75 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	outline: none;
+}
+
+.container{
+	background: url('../images/thumb-1920-30716.jpg');
+	background-repeat: no-repeat;
+	height: 600px;
+	margin-left: 35px;
+}
+.adminpanel,.edit-container{
+	padding-top: 20px;
+	background: url('../images/thumb-1920-16981.png');
+	background-repeat: no-repeat;
+	height: 656px;
+}
+button,#submitbtn{
+	background: url('../images/images.jpg');
+	color: white;
+	width: 80px;
+	height: 30px;
+	font-size: 13px;
+}
+#settings{
+	float: right;
+	width: 74px;
+	height: 30px;
+	margin-right: 5px;
+	background: url('../images/images.jpg');
+	color: white;
+}
+#logintable,#signuptable{
+	background: url('../images/thumb-1920-169813.png');
+	background-repeat: no-repeat;
+	margin: auto;
+}
+#welcome{
+	color: #116ac2;
+	font-size: 20px;
+}
+#permissions,#newuser{
+	float: left;
+	width: 90px;
+}
+#permissionform{
+	width: 300px;
+	margin: auto;
+}
+table{
+	margin: auto;
+	font-size: 17px;
+}
+tr th, tr td{
+	padding:8px 10px;
+}
+#admintable tr th,#admintable tr td{
+	padding: 20px 10px;
+}
+.blue option{
+	background-color:blue;
+}
+.header{
+background: url('../images/images.jpg');
+width: 100%;
+background-color: rgb(85, 107, 231);
+height: 80px;
+}
+.footer{
+width: 100%;
+background-color: rgb(85, 107, 231);
+background: red none repeat scroll 0% 0%;
+height: 30px;
+}
